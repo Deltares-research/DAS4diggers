@@ -42,8 +42,6 @@ Activate the DAS4diggers_env in a command prompt and type
 pixi run notebook
 ```
 
-```
-
 ## Contributing
 
 You can contribute by testing, raising issues and making pull requests. Some general guidelines:
